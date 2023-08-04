@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @3300ss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+visualization - https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model00000189bf860a06_00000000
 
-<!---
-3300ss/3300ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Story - https://us3.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FNew%2Bstory&action=view&sceneId=model00000189babbba3e_00000002&sceneTime=0
+
+report - https://us3.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FONLINE%2BEDU%2FOnline%2BEducation%2BSystem&action=run&prompt=false
+
+dashboard - https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FOnline%2BEducation%2BDashboard&action=view&mode=dashboard&subView=model00000189b59fccd8_00000002
+
